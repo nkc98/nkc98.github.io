@@ -20,7 +20,10 @@ navbar:
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/nkc98
+    - text: "Twitter"
+      icon: fa-twitter
+      href: https://twitter.com/climateneil
 output:
   html_document:
-    theme: cosmo
+    theme: lumen
     highlight: textmate

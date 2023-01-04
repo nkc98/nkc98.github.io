@@ -4,4 +4,6 @@ title: "About me"
 
 ## Header
 
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
 Say more about you here.
