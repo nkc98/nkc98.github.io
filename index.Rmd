@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my website!"
+title: "welcome to my website!"
 ---
 
-You're up and running!
