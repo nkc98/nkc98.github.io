@@ -23,6 +23,9 @@ navbar:
     - text: "github"
       icon: fa-github
       href: https://github.com/nkc98
+    - text: "linkedin"
+      icon: fa-linkedin
+      href: https://www.linkedin.com/in/neil-chin-3b8822126/
     - text: "twitter"
       icon: fa-twitter
       href: https://twitter.com/climateneil

@@ -2,7 +2,11 @@
 title: "welcome to my website!"
 ---
 
+<br/>
+
 <img src="pictures/halfdome.jpg" alt="halfdome" width="600"/>
+
+<br/>
 
 #### ~ i'm neil
 
