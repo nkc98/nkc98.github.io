@@ -30,3 +30,6 @@ output:
   html_document:
     theme: lumen
     highlight: textmate
+    includes: 
+      in_header: header.html
+      
