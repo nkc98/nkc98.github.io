@@ -4,3 +4,7 @@ title: "cv"
 
 <a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
+**hit the link above for the .pdf version of my cv.**
+
+my professional background is largely centered around providing quality research and advisory services in the area of climate finance and policy to governments and organizations. through this work, i've occupied a number of different roles, which have required me to contribute as a policy researcher, financial analyst, data engineer, and econometrician.
+

@@ -11,7 +11,7 @@ navbar:
       icon: fa-user 
       href: about.html
     - text: "work"
-      icon: fa-folder-open-o 
+      icon: fa-folder-open-o
       href: work.html
     - text: "cv"
       icon: fa-file-pdf-o

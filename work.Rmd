@@ -1,10 +1,14 @@
 ---
-title: "work"
+title: "a selection of past projects and articles"
 ---
 
-a selection of past projects and articles
+<br/>
 
-$~$
+## **climate finance and policy**
+
+this is probably what you are looking for :)
+
+<br/>
 
 #### Public Financial Institutions' Climate Commitments
 
@@ -12,7 +16,7 @@ $~$
 
 Ortega Pastor, A., Pinko, **N., Chin**, N., & Tonkonogy, B. (2022)
 
-$~$
+<br/>
 
 #### Financial Innovation for Climate Adaptation in Africa
 
@@ -20,7 +24,7 @@ $~$
 
 Richmond, M., Tonkonogy, B., Padmanabhi, R., Ortega Pastor, A., **Chin, N.**, & Hebbale, C. (2022)
 
-$~$
+<br/>
 
 #### Why the First Global Stocktake Should Not Overlook Long-Term Climate Strategies
 
@@ -28,10 +32,41 @@ $~$
 
 **Chin, N.** & Elliott, C. (2021)
 
-$~$
+<br/>
 
 #### The State and Effectiveness of the Green Bond Market in China
 
 [Climate Policy Initiative](https://www.climatepolicyinitiative.org/publication/green-bonds-in-china-the-state-and-effectiveness-of-the-market/)
 
 Escalante, D., Choi, J., & **Chin, N**. (2020)
+
+<br/>
+
+## **other projects**
+
+i sometimes do research work outside of my primary field, where i lack expertise i try to make up for it with curiosity!
+
+<br/>
+
+#### Did Medicaid Expansion Change the Trajectory of Drug Overdose Deaths in Appalachia?
+
+[Graduate School Project](files/U6614_final_project.pdf)
+
+**Chin, N.** & Wu, Y. (2022)
+
+<br/>
+
+#### Our Global Health Frameworks in COVID-19: Who Was Left Behind?
+
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4283349)
+
+**Chin, N.,** Dasaraju, S., Nair-Desai, S., & Nambiar, K. (2022)
+
+<br/>
+
+#### Why Majors Matter: Occupation Specificity, Job Skills, and College Selectivity
+
+[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946507)
+
+Weiss, D., Spitzer, M., Cronin, C., & **Chin, N.** (2021)
+

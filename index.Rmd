@@ -2,8 +2,10 @@
 title: "welcome to my website!"
 ---
 
-<img src="pictures/neilio.jpg" alt="neilio" width="400"/>
+<img src="pictures/halfdome.jpg" alt="halfdome" width="600"/>
 
 #### ~ i'm neil
 
 #### this site serves as my digital introduction!
+
+#### here you can find my story, my work, and maybe some other fun stuff
