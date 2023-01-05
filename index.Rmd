@@ -2,3 +2,8 @@
 title: "welcome to my website!"
 ---
 
+<img src="pictures/neilio.jpg" alt="neilio" width="400"/>
+
+#### ~ i'm neil
+
+#### this site serves as my digital introduction!
