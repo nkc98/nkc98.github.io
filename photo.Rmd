@@ -1,0 +1,122 @@
+---
+title: "some film flicks that i've taken over the years"
+---
+
+<br/>
+
+<style>
+.column-left{
+  float: left;
+  width: 50%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 50%;
+  text-align: right;
+}
+</style>
+
+<div class="column-left">
+<img
+    src="pictures/me.jpg"
+    alt="me"
+    width="400"
+/>
+<img
+    src="pictures/sf.jpg"
+    alt="sf"
+    width="400"
+/>
+<img
+    src="pictures/sutro.jpg"
+    alt="sutro"
+    width="400"
+/>
+<img
+    src="pictures/xihu.jpg"
+    alt="xihu"
+    width="400"
+/>
+<img
+    src="pictures/yeye.jpg"
+    alt="yeye"
+    width="400"
+/>
+<img
+    src="pictures/hangzhou.jpg"
+    alt="hangzhou"
+    width="400"
+/>
+<img
+    src="pictures/huangshan.jpg"
+    alt="huangshan"
+    width="400"
+/>
+<img
+    src="pictures/sitges.jpg"
+    alt="sitges"
+    width="400"
+/>
+<img
+    src="pictures/valley.jpg"
+    alt="valley"
+    width="400"
+/>
+<img
+    src="pictures/balcony.jpg"
+    alt="balcony"
+    width="400"
+/>
+</div>
+
+<div class="column-right">
+<img
+    src="pictures/waterfall.jpg"
+    alt="waterfall"
+    width="400"
+/>
+<img
+    src="pictures/bean.jpg"
+    alt="bean"
+    width="400" 
+/>
+<img
+    src="pictures/snow.jpg"
+    alt="snow"
+    width="400"
+/>
+<img
+    src="pictures/hamburg.jpg"
+    alt="hamburg"
+    width="400"
+/>
+<img
+    src="pictures/eifel.jpg"
+    alt="eifel"
+    width="400"
+/>
+<img
+    src="pictures/bunkers.jpg"
+    alt="bunkers"
+    width="400"
+/>
+<img
+    src="pictures/charles.jpg"
+    alt="charles"
+    width="400"
+/>
+<img
+    src="pictures/heracles.jpg"
+    alt="heracles"
+    width="400"
+/>
+<img
+    src="pictures/kasbah.jpg"
+    alt="kasbah"
+    width="400"
+/>
+</div>
+
+
+

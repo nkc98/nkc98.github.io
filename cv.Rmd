@@ -6,7 +6,7 @@ title: "cv"
 
 **hit the link above for the .pdf version of my cv.**
 
-my professional background is largely centered around providing quality research and advisory services in the area of climate finance and policy to governments and organizations. in the course of this work, i've occupied a number of different roles, making contributions as a policy researcher, financial analyst, and data engineer.
+my professional background centers around providing quality research and advisory services to governments and organizations in the area of climate finance and policy. over the course of this work, i've occupied a number of different roles, making contributions as a policy researcher, financial analyst, and data engineer.
 
 in general, i work best when focusing my efforts on structured problem solving, ranging from building out a financial model with sensitivities to coding a data pipeline to simply filling out a storyboard for a report. usually this involves collaboration with a team, which i think is necessary to coming up with good solutions!
 

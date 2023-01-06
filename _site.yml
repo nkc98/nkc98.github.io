@@ -16,6 +16,9 @@ navbar:
     - text: "cv"
       icon: fa-file-pdf-o
       href: cv.html
+    - text: "photo"
+      icon: fa-camera-retro
+      href: photo.html
   right:
     - text: "contact me"
       icon: fa-envelope-o
