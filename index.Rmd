@@ -2,10 +2,31 @@
 title: "welcome to my website!"
 ---
 
+```{css, echo = FALSE}
+*
+body{
+  font-family: "Courier New";
+  font-size: small;
+}
+```
+
 <br/>
 
-<img src="pictures/halfdome.jpg" alt="halfdome" width="600"/>
+<style>
+.column-left{
+  float: left;
+  width: 45%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 45%;
+  text-align: left;
+}
+</style>
 
+<div class="column-left">
+<img src="pictures/halfdome.jpg" alt="halfdome" width="600"/>
 <br/>
 
 #### ~ i'm neil
@@ -13,3 +34,22 @@ title: "welcome to my website!"
 #### this site serves as my digital introduction!
 
 #### here you can find my story, my work, and maybe a few other interesting things
+
+</div>
+
+<div class="column-right">
+#### some highlights:
+<br/>
+
+##### I. tracking and analyzing the climate commitments of public financial institutions
+[Climate Policy Initiative](https://www.climatepolicyinitiative.org/publication/public-financial-institutions-climate-commitments/)
+<br/>
+public FIs are an instrumental part of the global financial system's response to the climate finance gap. my colleagues and i examine the commitments made by these institutions towards financing climate projects and decarbonizing their portfolios.
+<br/>
+<br/>
+
+##### II. a look at medicaid expansion's effect on the drug overdose epidemic in appalachia
+[Graduate School Project](files/U6614_final_project.pdf)
+<br/>
+initial attempt at identifying a causal linkage between 2014 medicaid expansion and overdose deaths in appalachia. conclusions are sobering but should be taken with sufficient skepticism.
+</div>

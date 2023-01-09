@@ -2,6 +2,14 @@
 title: "a selection of past projects and articles"
 ---
 
+```{css, echo = FALSE}
+*
+body{
+  font-family: "Courier New";
+  font-size: small;
+}
+```
+
 <br/>
 
 ## **climate finance and policy**
@@ -44,7 +52,7 @@ Escalante, D., Choi, J., & **Chin, N**. (2020)
 
 ## **other projects**
 
-i sometimes do research work outside of my primary field, but where i lack expertise i try to make up for it with curiosity!
+i sometimes do research work outside of my primary field; where i lack expertise i try to make up for it with curiosity!
 
 <br/>
 

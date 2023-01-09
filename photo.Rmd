@@ -2,6 +2,14 @@
 title: "some film flicks that i've taken over the years"
 ---
 
+```{css, echo = FALSE}
+*
+body{
+  font-family: "Courier New";
+  font-size: small;
+}
+```
+
 <br/>
 
 <style>
