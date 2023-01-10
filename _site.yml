@@ -20,7 +20,7 @@ navbar:
       icon: fa-camera-retro
       href: photo.html
   right:
-    - text: "contact me"
+    - text: "email"
       icon: fa-envelope-o
       href: mailto:neilkchin@gmail.com
     - text: "github"
