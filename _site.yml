@@ -22,7 +22,7 @@ navbar:
   right:
     - text: "email"
       icon: fa-envelope-o
-      href: mailto:neilkchin@gmail.com
+      href: neilkchin@gmail.com
     - text: "github"
       icon: fa-github
       href: https://github.com/nkc98
