@@ -26,8 +26,10 @@ body{
 </style>
 
 <div class="column-left">
-<img src="pictures/halfdome.jpg" alt="halfdome" width="600"/>
+<img src="pictures/flower_boy.jpg" alt="flower boy" width="400"/>
 <br/>
+
+portrait courtesy of Corinna Lauber
 
 #### ~ i'm neil
 

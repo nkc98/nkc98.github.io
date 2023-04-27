@@ -12,7 +12,10 @@ body{
 
 <br/>
 
-<img src="pictures/neilio.jpg" alt="neilio" width="400"/>
+<div class = "columns-2">
+  <img src="pictures/neilio.jpg" alt="neilio" width="400"/>
+  <img src="pictures/halfdome.jpg" alt="half dome" width="400"/>
+</div>
 
 portrait courtesy of [Quinlan Cooney](https://quinlancooney.com/)
 
