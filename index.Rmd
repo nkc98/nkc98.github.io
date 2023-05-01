@@ -29,7 +29,7 @@ body{
 <img src="pictures/flower_boy.jpg" alt="flower boy" width="400"/>
 <br/>
 
-portrait courtesy of Corinna Lauber
+courtesy of Corinna Lauber
 
 #### ~ i'm neil
 
@@ -50,7 +50,7 @@ public FIs are an instrumental part of the global financial system's response to
 <br/>
 <br/>
 
-##### II. a look at medicaid expansion's effect on the drug overdose epidemic in appalachia
+##### II. the effect of medicaid expansion on the drug overdose epidemic in appalachia
 [Graduate School Project](files/U6614_final_project.pdf)
 <br/>
 initial attempt at identifying a causal linkage between 2014 medicaid expansion and overdose deaths in appalachia. conclusions are sobering but should be taken with sufficient skepticism.
