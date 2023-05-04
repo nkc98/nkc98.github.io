@@ -18,7 +18,7 @@ my professional background centers around providing quality research and advisor
 
 in general, i work best when focusing my efforts on structured problem solving, which can range from building out sensitivities for a financial model to coding a data pipeline to simply mapping out a storyboard for a report. usually this involves collaboration with a team, which i think is necessary to coming up with good solutions!
 
-when i am not working on solving problems directly, i also enjoy teaching. as a graduate student, i have been an assistant instructor for a course on energy systems, technology, and markets, as well as another course on quantitative research methods using R. 
+outside of my primary work responsibilities, i also enjoy teaching. as a graduate student, i have been an assistant instructor for a course on energy systems, technology, and markets, as well as another course on quantitative research methods using R. i also try my best to contribute to organizational learning efforts by sharing technical resources and making my own work as replicable as possible.
 
 <br/>
 <img src="pictures/yangzhou.jpg" alt="yangzhou" width="600"/>
