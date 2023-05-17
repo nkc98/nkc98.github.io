@@ -43,14 +43,21 @@ courtesy of Corinna Lauber
 #### some highlights:
 <br/>
 
-##### I. tracking and analyzing the climate commitments of public financial institutions
+##### I. measuring the text content of nationally determined contributions (NDCs)
+[Graduate School Project](files/TAD_final_project.pdf)
+<br/>
+how do countries talk about their climate priorities? are the critical issues of vulnerability to climate risks and differentiated national responsibilities for climate action actually reflected in national climate documents?
+<br/>
+<br/>
+
+##### II. tracking and analyzing the climate commitments of public financial institutions
 [Climate Policy Initiative](https://www.climatepolicyinitiative.org/publication/public-financial-institutions-climate-commitments/)
 <br/>
 public FIs are an instrumental part of the global financial system's response to the climate finance gap. my colleagues and i examine the commitments made by these institutions towards financing climate projects and decarbonizing their portfolios.
 <br/>
 <br/>
 
-##### II. the effect of medicaid expansion on the drug overdose epidemic in appalachia
+##### III. the effect of medicaid expansion on the drug overdose epidemic in appalachia
 [Graduate School Project](files/U6614_final_project.pdf)
 <br/>
 initial attempt at identifying a causal linkage between 2014 medicaid expansion and overdose deaths in appalachia. conclusions are sobering but should be taken with sufficient skepticism.
