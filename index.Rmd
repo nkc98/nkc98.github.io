@@ -50,15 +50,9 @@ how do countries talk about their climate priorities? are the critical issues of
 <br/>
 <br/>
 
-##### II. tracking and analyzing the climate commitments of public financial institutions
-[Climate Policy Initiative (2022)](https://www.climatepolicyinitiative.org/publication/public-financial-institutions-climate-commitments/)
+##### II. enhancing MDB-NDB cooperation
+[Climate Policy Initiative & E3G](https://www.climatepolicyinitiative.org/publication/enhancing-mdb-ndb-cooperation-understanding-climate-finance-flows-and-paris-alignment/)
 <br/>
-public FIs are an instrumental part of the global financial system's response to the climate finance gap. my colleagues and i examine the commitments made by these institutions towards financing climate projects and decarbonizing their portfolios.
+looks at the state of climate finance cooperation between multilateral and national development banks. data is novel and collected using a combination of web scraping and text matching.
 <br/>
 <br/>
-
-##### III. the effect of medicaid expansion on the drug overdose epidemic in appalachia
-[Graduate School Project (2022)](files/U6614_final_project.pdf)
-<br/>
-initial attempt at identifying a causal linkage between 2014 medicaid expansion and overdose deaths in appalachia. conclusions are sobering but should be taken with sufficient skepticism.
-</div>
