@@ -77,6 +77,14 @@ i sometimes do research work outside of my primary field — where i lack expert
 
 <br/>
 
+#### Why Majors Matter: Occupation Specificity, Job Skills, and College Selectivity
+
+[Contemporary Economic Policy](https://onlinelibrary.wiley.com/doi/10.1111/coep.12634)
+
+Weiss, D., Spitzer, M., Cronin, C., & **Chin, N.** (2023)
+
+<br/>
+
 #### Did Medicaid Expansion Change the Trajectory of Drug Overdose Deaths in Appalachia?
 
 [Graduate School Project](files/U6614_final_project.pdf)
@@ -93,11 +101,4 @@ R code available on [Github](https://github.com/nkc98/U6614_final_project/blob/m
 
 **Chin, N.,** Dasaraju, S., Nair-Desai, S., & Nambiar, K. (2022)
 
-<br/>
-
-#### Why Majors Matter: Occupation Specificity, Job Skills, and College Selectivity
-
-[SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946507)
-
-Weiss, D., Spitzer, M., Cronin, C., & **Chin, N.** (2021)
 
