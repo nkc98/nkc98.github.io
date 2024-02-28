@@ -51,8 +51,10 @@ how do countries talk about their climate priorities? are the critical issues of
 <br/>
 
 ##### II. enhancing MDB-NDB cooperation
-[Climate Policy Initiative & E3G](https://www.climatepolicyinitiative.org/publication/enhancing-mdb-ndb-cooperation-understanding-climate-finance-flows-and-paris-alignment/)
+[Climate Policy Initiative & E3G (2023)](https://www.climatepolicyinitiative.org/publication/enhancing-mdb-ndb-cooperation-understanding-climate-finance-flows-and-paris-alignment/)
 <br/>
 looks at the state of climate finance cooperation between multilateral and national development banks. data is novel and collected using a combination of web scraping and text matching.
 <br/>
 <br/>
+
+see more on my [work](https://nkc98.github.io/work.html) page
