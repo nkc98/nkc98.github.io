@@ -1,5 +1,5 @@
 ---
-title: "a selection of past projects and articles"
+title: "a selection of past projects and published work"
 ---
 
 ```{css, echo = FALSE}
