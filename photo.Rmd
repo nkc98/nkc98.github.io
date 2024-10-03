@@ -129,6 +129,11 @@ body{
     alt="kasbah"
     width="400"
 />
+<img
+    src="pictures/arthur.jpg"
+    alt="snow hike"
+    width="400"
+/>
 </div>
 
 
